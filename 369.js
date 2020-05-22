@@ -14,7 +14,7 @@ for(i=1;i<=max;i++){
         temp = Math.floor(temp/10);       
     }
 
-    if(num369=0){
+    if(num369===0){
         element.textContent = i;
     }
     else{
